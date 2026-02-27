@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "email": {
+      "command": "python",
+      "args": ["D:/hack0aliza-gold/mcp_servers/email_server.py"],
+      "env": {}
+    },
+    "odoo": {
+      "command": "python",
+      "args": ["D:/hack0aliza-gold/mcp_servers/odoo/odoo_server.py"],
+      "env": {}
+    },
+    "facebook": {
+      "command": "python",
+      "args": ["D:/hack0aliza-gold/mcp_servers/facebook-mcp/facebook_server.py"],
+      "env": {}
+    },
+    "twitter": {
+      "command": "python",
+      "args": ["D:/hack0aliza-gold/mcp_servers/twitter-mcp/twitter_server.py"],
+      "env": {}
+    }
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2026-02-26T13:41:55.692044",
+    "action": "search_partners",
+    "actor": "odoo_mcp",
+    "query": "",
+    "count": 2
+  },
+  {
+    "timestamp": "2026-02-26T13:42:54.087894",
+    "action": "create_partner",
+    "actor": "odoo_mcp",
+    "name": "Test Customer Hello World",
+    "id": 7,
+    "email": "test@example.com"
+  },
+  {
+    "timestamp": "2026-02-26T13:43:09.233406",
+    "action": "get_accounting_summary",
+    "actor": "odoo_mcp",
+    "total_invoiced": 0,
+    "overdue_count": 0
+  },
+  {
+    "timestamp": "2026-02-26T13:44:39.427122",
+    "action": "search_partners",
+    "actor": "odoo_mcp",
+    "query": "",
+    "count": 1
+  },
+  {
+    "timestamp": "2026-02-26T13:44:55.856748",
+    "action": "create_invoice",
+    "actor": "odoo_mcp",
+    "invoice_id": 1,
+    "name": "INV/2026/00001",
+    "partner_id": 7,
+    "amount": 38000.0
+  },
+  {
+    "timestamp": "2026-02-26T13:45:14.034680",
+    "action": "get_accounting_summary",
+    "actor": "odoo_mcp",
+    "total_invoiced": 0,
+    "overdue_count": 0
+  }
+]

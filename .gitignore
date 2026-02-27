@@ -3,3 +3,30 @@ token.json
 client_secret*.json
 __pycache__/
 *.pyc
+
+# Large runtime installations (not suitable for git)
+python/
+PostgreSQL/
+server/
+thirdparty/
+vcredist/
+nssm/
+Uninstall.exe
+
+# Social media session cookies (security sensitive)
+sessions/
+
+# IDE
+.obsidian/
+
+# Binary/large files
+*.exe
+*.dll
+*.pma
+*.ldb
+*.log
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico

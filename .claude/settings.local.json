@@ -1,0 +1,8 @@
+{
+  "enabledMcpjsonServers": [
+    "email",
+    "odoo",
+    "facebook"
+  ],
+  "enableAllProjectMcpServers": true
+}

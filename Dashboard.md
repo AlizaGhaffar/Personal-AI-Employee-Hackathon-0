@@ -1,7 +1,7 @@
 # AI Employee Dashboard
 
 > **Nerve Center** | Personal AI Employee — Bronze Tier
-> Last refreshed: `2026-02-13 00:00`
+> Last refreshed: `2026-02-26 13:45`
 
 ---
 
@@ -72,10 +72,38 @@ _Empty_
 
 ---
 
+## Odoo — Live Business Data
+
+| Metric                  | Value                          |
+|-------------------------|--------------------------------|
+| Draft Invoices          | `1`                            |
+| Total Invoiced (posted) | `Rs. 0`                        |
+| Outstanding             | `Rs. 0`                        |
+| Total Customers         | `1`                            |
+| Recent Sales Orders     | `0`                            |
+
+### Latest Invoice
+
+| Field        | Detail                        |
+|--------------|-------------------------------|
+| Invoice #    | `INV/2026/00001`              |
+| Customer     | Test Customer Hello World     |
+| Line 1       | Web Design Service × 2 = Rs. 30,000 |
+| Line 2       | SEO Optimization × 1 = Rs. 8,000  |
+| **Total**    | **Rs. 38,000**                |
+| Status       | `Draft` (confirm in Odoo UI)  |
+| Due Date     | 2026-03-26                    |
+
+> 🔗 Open Odoo: http://localhost:8069/web#action=account.action_move_out_invoice_type
+
+---
+
 ## Recent Activity
 
 | Timestamp           | Action                                      | Actor  |
 |---------------------|---------------------------------------------|--------|
+| 2026-02-26 13:45    | Invoice INV/2026/00001 created — Rs. 38,000 | Claude |
+| 2026-02-26 13:43    | Odoo Hello World — partners listed & customer created | Claude |
 | 2026-02-13 00:00    | Workspace initialized — folders created     | Claude |
 | 2026-02-13 00:00    | Dashboard.md and Company_Handbook.md created | Claude |
 | 2026-02-13 00:00    | Full pipeline folders added                 | Claude |
