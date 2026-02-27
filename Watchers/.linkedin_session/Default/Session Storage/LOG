@@ -1,0 +1,9 @@
+2026/02/18-11:49:21.075 1324 Reusing MANIFEST D:\hack0aliza\Watchers\.linkedin_session\Default\Session Storage/MANIFEST-000001
+2026/02/18-11:49:21.137 1324 Recovering log #3
+2026/02/18-11:49:21.139 1324 Reusing old log D:\hack0aliza\Watchers\.linkedin_session\Default\Session Storage/000003.log 
+2026/02/18-12:01:58.527 1324 Level-0 table #5: started
+2026/02/18-12:01:58.610 1324 Level-0 table #5: 18325 bytes OK
+2026/02/18-12:01:58.635 1324 Delete type=0 #3
+2026/02/18-12:17:32.771 640 Level-0 table #7: started
+2026/02/18-12:17:32.818 640 Level-0 table #7: 22463 bytes OK
+2026/02/18-12:17:32.840 640 Delete type=0 #4
