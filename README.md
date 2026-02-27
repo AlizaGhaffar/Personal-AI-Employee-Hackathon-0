@@ -4,9 +4,19 @@
 
 ---
 
+## Tier Achievement
+
+| Tier | Status |
+|------|--------|
+| Bronze — Foundation (Vault, 1 watcher, folder structure, agent skills) | ✅ Complete |
+| Silver — Functional Assistant (5 watchers, social posting, MCP servers, HITL workflow, scheduling) | ✅ Complete |
+| Gold — Autonomous Employee (Full cross-domain automation, ERP integration, CEO briefing, autonomous loop) | ✅ Complete |
+
+---
+
 ## Overview
 
-**Personal AI Employee (Bronze Tier)** is a hackathon project that turns Claude Code into a working AI employee. It continuously monitors communication channels, classifies incoming items by priority, generates execution plans, and waits for human approval before taking action. The system integrates with Gmail, LinkedIn, Facebook, Twitter, and Odoo (ERP) to cover email, social media, and business operations in one unified workspace.
+**Personal AI Employee (Gold Tier: Autonomous Employee)** is a hackathon project that turns Claude Code into a working AI employee. It continuously monitors communication channels, classifies incoming items by priority, generates execution plans, and waits for human approval before taking action. The system integrates with Gmail, LinkedIn, Facebook, Twitter, and Odoo (ERP) to cover email, social media, and business operations in one unified workspace.
 
 ---
 
